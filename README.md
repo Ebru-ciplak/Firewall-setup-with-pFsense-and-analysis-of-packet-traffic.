@@ -9,12 +9,12 @@
 
 **PfSense is a Firewall distribution and is FreeBSD Based. With PfSense, we can protect our devices against attacks that may come from an internet connection. You can restrict the pages that users in your network can access. We can make time restrictions. We can block certain applications.**
 
-**In our project, we first uploaded the PfSense ISO file on WMV.Since PfSense runs on the FreeBSD operating system, we click the other option in our virtual machine. We choose FreeBSD as the version. Then we write 40GB instead of 20GB in the Max Disk Size section. Then we click on the Customize Hardware option. In this section, we first select the memory as 256MB. We write 2 in the Processors section and tick the Virtualize Intel option. In the next step, we install the ISO file that we downloaded. The network adapter part is important. Since there should be 2 adapters in this part, the first adapter will be NAT. For the other adapter, we choose Bridged. We have uploaded our ISO file to the virtual machine.**
- * _PfSense IOS FILE Uploaded and customize on WMV_ 
+**In our project, we first uploaded the PfSense ISO file on VMW.Since PfSense runs on the FreeBSD operating system, we click the other option in our virtual machine. We choose FreeBSD as the version. Then we write 40GB instead of 20GB in the Max Disk Size section. Then we click on the Customize Hardware option. In this section, we first select the memory as 256MB. We write 2 in the Processors section and tick the Virtualize Intel option. In the next step, we install the ISO file that we downloaded. The network adapter part is important. Since there should be 2 adapters in this part, the first adapter will be NAT. For the other adapter, we choose Bridged. We have uploaded our ISO file to the virtual machine.**
+ * _PfSense IOS FILE Uploaded and customize on VMW_ 
 
 ![1WMV kurulum](https://user-images.githubusercontent.com/80758830/121806591-27fd4f00-cc59-11eb-9c58-62642fcbca15.gif)
 
- * _PfSense Uploaded on WMV_ 
+ * _PfSense Uploaded on VMW_ 
 
 **First, we run our virtual machine with FreeBSD operating system. In this part we will need to perform some installation process. In the Copyright and distribution notice section, we click the Accept option. Click on PfSense Install and continue. Select to Continue with default keymap. OK to Auto (UFS) BIOS. Then some installation process is performed. Click No for Manual Configuration. Click on the Reboot option and complete this part.**
 
