@@ -34,6 +34,13 @@
 
 ![4 ağ ayarları](https://user-images.githubusercontent.com/80758830/121808712-7a8f3900-cc62-11eb-97c7-dac5d37cd5c2.gif)
 
+**And pfsense installation completed successfully. As you can see,our wan and lan interfaces are working.**
+
+![DASHBOARD](https://user-images.githubusercontent.com/80758830/121812710-a49c2780-cc71-11eb-9425-fc200a6a0a01.png)
+
+![ntop](https://user-images.githubusercontent.com/80758830/121812715-a9f97200-cc71-11eb-83b0-6fdcc3e73589.png)
+
+
 
 
 
